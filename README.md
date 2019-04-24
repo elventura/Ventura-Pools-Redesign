@@ -1,2 +1,2 @@
 # Ventura-Pools-Redesign
-Re-designing an outdated website for a pool construction company in southern Calfornia.
+Re-designing an outdated website and SEO for a pool construction company in southern California.
